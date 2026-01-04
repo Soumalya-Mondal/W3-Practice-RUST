@@ -1,0 +1,17 @@
+# Ignore all target folders recursively
+**/target/
+
+# Ignore all Cargo.lock files
+**/*/Cargo.lock
+
+# Ignore all .gitignore files
+**/*/.gitignore
+
+# Ignore all .env files
+*.env
+
+#Ignore all .csv files
+*.csv
+
+# Ignore all .log files
+*.log
