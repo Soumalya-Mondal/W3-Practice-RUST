@@ -1,5 +1,5 @@
 # Set the path to your master folder
-$masterFolder = "C:\Installers\Rust-Practice"
+$masterFolder = "C:\Users\soumamon\OneDrive - Capgemini\Self-Code-Test\Rust\W3-Practice-Rust"
 
 # Get all 'target' directories recursively
 $targetDirs = Get-ChildItem -Path $masterFolder -Recurse -Directory -Filter "target"
