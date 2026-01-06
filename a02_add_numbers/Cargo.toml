@@ -1,5 +1,5 @@
 [package]
-name = "aab_add_numbers"
+name = "a02_add_numbers"
 version = "0.1.0"
 edition = "2024"
 
